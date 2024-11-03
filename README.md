@@ -3,7 +3,7 @@
 Project Details:
  * Title: SQL Project - Data Analysis (MYSQL, MSSQL Server)
  * Week: 1
- * January 2020
+ * October 2024
  * Real-time project
 
    
