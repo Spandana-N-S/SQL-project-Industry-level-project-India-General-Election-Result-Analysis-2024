@@ -1,10 +1,15 @@
 # SQL-project-Industry-level-project-India-General-Election-Result-Analysis-2024
 
-Project Details:
- * Title: SQL Project - Data Analysis (MYSQL, MSSQL Server)
- * Week: 1
- * October 2024
- * Real-time project
+Overview: Analysed the results of the India general elections 2024 using Excel and Microsoft sequel server. The project involved generating insights on seat distribution, alliances performance, and candidate details at both state and national levels. 
+
+Data sourced from kaggle, the project integrates multiple tables to deliver in depth insights into voting patterns, regional trends, and overall outcomes.
+
+key highlights:
+1. total seat count and statewise distribution
+2. seats won by major alliances(NDA,I.N.D.I.A, and others)
+3. party-wise and candidate-wise performance analysis 
+4. voting patterns across EVM and postal votes
+5. identified winners and runners-up for all constituences
 
    
 Project Scope:
@@ -72,3 +77,7 @@ Potential Use Cases:
  * Researchers: Conduct academic studies on electoral dynamics and political party performance.
      
 Overall, the project aims to provide a comprehensive analysis of the 2024 Indian General Election results using SQL.
+
+Outcome: Delivered actionable insights and comprehensive visualisations, showcaseing the electoral trends and outcomes effectively 
+
+Tools used: Microsoft Excel, Microsoft SQL server, data analysis 
