@@ -361,5 +361,13 @@ o) To find out what are the total number of seats, total candidates, total parti
     WHERE s.State = 'Punjab';
 
 
-![Election 16](https://github.com/user-attachments/assets/5dd3ec52-ebbf-431a-8766-cc5c1b2e7820)       
+![Election 16](https://github.com/user-attachments/assets/5dd3ec52-ebbf-431a-8766-cc5c1b2e7820)      
+
+
+Real World relevance:
+1. Political Strategists: They can use this analysis to understand potential risks and develop strategies to mitigate them, ensuring a smoother election process.
+2. Policymakers: Insights from the analysis can help in formulating policies that address identified risks, such as security concerns or logistical challenges.
+3. Election Observers: Organizations monitoring the elections can use this information to focus their efforts on areas with higher risks, ensuring transparency and fairness.
+4. Public Awareness: Educating the public about potential risks can lead to more informed voting decisions and increased participation in the democratic process.
+5. International Relations: Other countries and international bodies can use this analysis to understand the political climate in India, which can influence diplomatic and economic relations.
 
